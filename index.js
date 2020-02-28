@@ -117,7 +117,6 @@ class Lambdasian {
 
 
 }
-console.log(Lambdasian.speak());
 /*
   TASK 4
     - Write an Instructor class extending Lambdasian.
